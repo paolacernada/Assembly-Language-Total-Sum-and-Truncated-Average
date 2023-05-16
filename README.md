@@ -1,4 +1,4 @@
-# Assembly-Language-Total-Sum-and-Truncated-Average
+# Truncated Averages - Assembly Language
 
 This project is a demonstration of low-level I/O procedures using string primitives and macros in assembly language. The program asks the user to input 10 signed numbers (not exceeding the size of a 32-bit register). Once the user has entered the numbers, the program displays a list of the inputted numbers, their total sum, and the truncated average.
 
